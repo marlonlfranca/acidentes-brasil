@@ -1,0 +1,8 @@
+Baixe o arquivo comprimido na pasta "data".
+Extraia o arquivo "accidents_2017_to_2023_portuguese".
+
+Na pasta "jupyter", baixe o arquivo "acidentes.ipynb".
+
+Execute o jupyter notebook via terminal de comandos do seu computador.
+
+Abra o arquivo "acidentes.ipynb".
