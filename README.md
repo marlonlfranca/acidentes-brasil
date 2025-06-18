@@ -9,8 +9,8 @@ Neste projeto, analisei os acidentes ocorridos entre 2017 e 2023 nas BRs do Bras
 3. etl-accidents - importação, tratamento e limpeza dos dados para a análise.
 4. totals-accidents - cálculos dos totais dos acidentes com cada parâmetro relevante.
 5. corr-accidents - correlações entre acidentes e causas, tipos, clima, etc.
-6. predict-accidents - cálculo da predição de acidentes nos anos futuros. (EM PRODUÇÃO)
+6. predict-accidents - modelo de machine learning para predição de acidentes nos anos seguintes. (EM PRODUÇÃO)
 
 ## Tecnologias
-- Python (pandas, numpy, seaborn, matplotlib)
+- Python (pandas, numpy, seaborn, matplotlib, scikit-learn)
 - Jupyter Notebooks
