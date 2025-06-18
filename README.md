@@ -1,4 +1,4 @@
-# Acidentes nas BRs do Brasil, insights baseados em dados!
+# Acidentes nas BRs do Brasil: Insights baseados em dados!
 
 Neste projeto, analisei os acidentes ocorridos entre 2017 e 2023 nas BRs do Brasil, desde a quantidade, causas, tipos e demais características dos acidentes nas BRs brasileiras.
 
