@@ -12,6 +12,6 @@ Neste projeto, analisei os acidentes ocorridos entre 2017 e 2023 nas BRs do Bras
 6. corr-accidents - correlações entre acidentes e causas, tipos, clima, etc.
 
 ## Tecnologias
-- Python (pandas, numpy, seaborn, pyplot, matplotlib)
+- Python (pandas, numpy, seaborn, pyplot, matplotlib, scikitlearn)
 - Jupyter Notebooks
 - Git, GitHub
