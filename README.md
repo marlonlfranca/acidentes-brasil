@@ -4,13 +4,14 @@ Neste projeto, analisei os acidentes ocorridos entre 2017 e 2023 nas BRs do Bras
 
 
 ## Sumário
-1. Pasta "data" - dados comprimidos (.zip) para você baixar.
-2. Pasta "jupyter" - notebooks de cada etapa da análise (ETL, cálculos de totais, criação das correlações, predições).
-3. etl-accidents - importação, tratamento e limpeza dos dados para a análise.
-4. totals-accidents - cálculos dos totais dos acidentes com cada parâmetro relevante.
-5. corr-accidents - correlações entre acidentes e causas, tipos, clima, etc.
-6. predict-accidents - modelo de machine learning para predição de acidentes nos anos seguintes. (EM PRODUÇÃO)
+1. Pasta "data" - dados comprimidos (.zip) para download.
+2. Pasta "jupyter" - notebooks de cada etapa da análise (ETL, cálculos, correlações).
+3. ETL-accidents - importação, tratamento e limpeza dos dados para a análise.
+4. Totals-accidents-XXXX - cálculos dos totais dos acidentes separados por ano.
+5. Totals-allyears - cálculos acumulados de 2017 a 2023.
+6. corr-accidents - correlações entre acidentes e causas, tipos, clima, etc.
 
 ## Tecnologias
-- Python (pandas, numpy, seaborn, matplotlib, scikit-learn)
+- Python (pandas, numpy, seaborn, pyplot, matplotlib, scikitlearn)
 - Jupyter Notebooks
+- Git, GitHub
